@@ -1,0 +1,9 @@
+#body .container{
+    height: 50px;
+    width: 900px;
+    background-color: black;
+}
+
+p {
+    color: white;
+}
